@@ -1,0 +1,22 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "user_name": "Ashish",
+            "avatar_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fbeautiful-happy-woman-showing-love-sign-near-eyes-healthy-vision-portrait-holding-heart-shaped-hands-closeup-smiling-83939671.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Flove.html&tbnid=sWlTFGs-Pn-2PM&vet=12ahUKEwiExcCLsd78AhVcjNgFHcN_C-4QMyhDegQIARBH..i&docid=Ukcvm3PybD5jEM&w=800&h=533&q=image&ved=2ahUKEwiExcCLsd78AhVcjNgFHcN_C-4QMyhDegQIARBH",
+            "full_name": "Ash",
+            "email": "a@gmail.com",
+            "password": "$1a$10$2VgLvyhqu.qpXtENFowAsOTEbS7Lm2LBjaIP5bUHo8npcj05rR1Mm"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "des": "Tweet something!",
+            "gif_url": "https://media.tenor.com/HJbZxDfPHbQAAAAM/marlion-twitter.gif",
+            "user_name": "Ashish",
+            "location": "Delhi",
+            "timeStamp": "12/14/2022, 3:42:26 PM"
+        }
+    ]
+}
