@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./src/assets/bird.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tweeter App</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <style>
+      #preloader {
+        display: flex;
+        height: 90vh;
+        justify-content: center;
+        align-items: center;
+      }
+      #preloader > img {
+        animation: fade 0.4s ease-in-out infinite alternate;
+      }
+      @keyframes fade {
+        0% {
+          opacity: 0.6;
+          transform: scale(1.02);
+        }
+        100% {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <div id="preloader">
+        <img width="80px" src="./src/assets/bird.svg" alt="bird" />
+      </div>
+    </div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
