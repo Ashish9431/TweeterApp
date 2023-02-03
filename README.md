@@ -4,4 +4,11 @@
 <h2>Tech Stacks</h2>
 Node.js
 </br>
-<>
+
+Redux
+</br>
+React
+</br>
+ChakraUI
+</br>
+JavaScript
